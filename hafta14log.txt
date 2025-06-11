@@ -1,0 +1,5 @@
+- Django kurulumu yapıldı ve virtual environment oluşturuldu.
+- `vulndemo` adında proje ve `attacklab` adında uygulama eklendi.
+- Admin panel aktif edildi ve kullanıcı işlemleri yapıldı.
+- Sayfalar üzerinden temel güvenlik testleri uygulandı.
+- Kodlar çalıştırıldı ve test ortamında uygulama ayağa kaldırıldı.
